@@ -51,8 +51,9 @@
 
 **Classes:**
 
-* Module classes started by a capital letter
+* Module classes started width m-
 * Utility classes started with u-
+* Clesses added by javascript started with is-
 * BEM like classes
 	* .-type
 	* &--type
