@@ -16,10 +16,9 @@
 
 **Instalation:**
 
-* Run those tasks in main folder to install all dependencies:
-	* "npm install"
-* "grunt" - run when working on project
-* "grunt build" - run before pushing files to production
+* "npm install" - to install all dependencies
+* "grunt" - run while working on project
+* "grunt build" - to generate dist/ files, run before pushing files to production
 
 **Theme structure (importat files presented):**
 
