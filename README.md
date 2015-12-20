@@ -11,7 +11,6 @@
 
 * LESS
 * BEM naming convention
-* Bootstrap
 
 ## Getting started
 
