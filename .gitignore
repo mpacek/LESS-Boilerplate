@@ -17,6 +17,11 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Project files
+node_modules
+.sass-cache
+.tmp
+
 # =========================
 # Operating System Files
 # =========================

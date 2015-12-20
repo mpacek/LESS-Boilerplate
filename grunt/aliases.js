@@ -1,4 +1,4 @@
 module.exports = {
   'default': ['less:dev', 'autoprefixer:dev', 'processhtml:dev', 'express', 'open', 'watch'],
-  'build': ['copy:build', 'imagemin:build', 'processhtml:build', 'uglify:build', 'less:build', 'autoprefixer:build', 'csso:build']
+  'build': ['copy:build', 'uglify:build', 'less:build', 'autoprefixer:build']
 };
