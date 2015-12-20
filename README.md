@@ -24,27 +24,27 @@
 
 **Theme structure (importat files presented):**
 
-src/
-├── fonts/
-├── images/
-├── styles/
-│   ├── vendors/
-│   ├── shared/
-│   |   ├── reset.less
-│   |   └── variables.less
-│   |   └── ...
-│   ├── components/
-│   ├── modules/
-│   └── pages/
-├── ─── print.less
-├── ─── styles.less
-├── scripts/
-│   ├── helpers/
-│   ├── ignore/
-│   ├── modules/
-│   ├── standalone/
-│   └── vendors/
-└── ─── init.js
+	src/
+	├── fonts/
+	├── images/
+	├── styles/
+	│   ├── vendors/
+	│   ├── shared/
+	│   |   ├── reset.less
+	│   |   └── variables.less
+	│   |   └── ...
+	│   ├── components/
+	│   ├── modules/
+	│   └── pages/
+	├── ─── print.less
+	├── ─── styles.less
+	├── scripts/
+	│   ├── helpers/
+	│   ├── ignore/
+	│   ├── modules/
+	│   ├── standalone/
+	│   └── vendors/
+	└── ─── init.js
 
 * In production use files from dist/ ("grunt build" task updates this)
 * On your local machine use files from .tmp/ ("grunt" task updates this)
