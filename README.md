@@ -79,6 +79,6 @@ Include minified scripts.min.js just before </body> tag, with async attribute
 	// Basic comment
 
 
-Copyright 2014 Michał Pacek
+Copyright 2015 Michał Pacek
 
 Licensed under the Apache License, Version 2.0.
