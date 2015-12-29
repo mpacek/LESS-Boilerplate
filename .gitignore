@@ -1,4 +1,5 @@
 # Project files
 node_modules
+dist
 .sass-cache
 .tmp
