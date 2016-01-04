@@ -50,7 +50,7 @@
 
 **Classes:**
 
-* Module classes started width m-
+* Module classes started width capital letter
 * Utility classes started with u-
 * Clesses added by javascript started with is-
 * BEM like classes
