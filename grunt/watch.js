@@ -1,7 +1,7 @@
 module.exports = {
 
   styles: {
-    files: ['src/styles/**/*'],
+    files: ['src/less/**/*'],
     tasks: ['less:dev', 'autoprefixer:dev'],
     options: {
       livereload: true

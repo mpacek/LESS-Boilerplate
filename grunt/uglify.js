@@ -6,11 +6,11 @@ module.exports = {
 			'<%= grunt.template.today("dd-mmm-yyyy") %> */'
 		},
 		src: [
-			"src/scripts/vendors/*.js",
-			"src/scripts/helpers/*.js",
-			"src/scripts/modules/*.js",
-			"src/scripts/*.js"
+			"src/js/vendors/*.js",
+			"src/js/helpers/*.js",
+			"src/js/modules/*.js",
+			"src/js/*.js"
 		],
-		dest: 'dist/scripts/scripts.min.js'
+		dest: 'dist/js/scripts.min.js'
 	}
 };

@@ -6,13 +6,13 @@ module.exports = {
   },
 
   dev: {
-    src: '.tmp/styles/*.css'
+    src: '.tmp/css/*.css'
   },
 
   build: {
     options: {
       map: false
     },
-    src: 'dist/styles/*.css'
+    src: 'dist/css/*.css'
   }
 };

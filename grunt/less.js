@@ -8,11 +8,11 @@ module.exports = {
       '<%= grunt.template.today("dd-mmm-yyyy") %> */'
     },
     files: [{
-      src: 'src/styles/styles.less',
-      dest: '.tmp/styles/styles.css'
+      src: 'src/less/styles.less',
+      dest: '.tmp/css/styles.css'
     }, {
-      src: 'src/styles/print.less',
-      dest: '.tmp/styles/print.css'
+      src: 'src/less/print.less',
+      dest: '.tmp/css/print.css'
     }]
   },
 
@@ -24,11 +24,11 @@ module.exports = {
       '<%= grunt.template.today("dd-mmm-yyyy") %> */'
     },
     files: [{
-      src: 'src/styles/styles.less',
-      dest: 'dist/styles/styles.min.css'
+      src: 'src/less/styles.less',
+      dest: 'dist/css/styles.min.css'
     }, {
-      src: 'src/styles/print.less',
-      dest: 'dist/styles/print.min.css'
+      src: 'src/less/print.less',
+      dest: 'dist/css/print.min.css'
     }]
   }
 };
